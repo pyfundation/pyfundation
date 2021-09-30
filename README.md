@@ -1,7 +1,7 @@
 ## Hi I'm Engeneer Marcelo Anjos🖐️
 ## Olá! Eu sou o Engenheiro Marcelo Anjos 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://pyfoundation.org/)](https://pyfoundation.org)
+[![Blog](https://img.shields.io/website?label=pyfoundation.org&style=for-the-badge&url=https://pyfoundation.org/)](https://pyfoundation.org)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/pyfoundation)
 @@ -9,7 +9,7 @@
 
